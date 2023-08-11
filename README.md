@@ -1,5 +1,5 @@
 # Sway für Siduction
-Es wird ein abgestuftes Angebot für alle Sway Interessenten erstell, wobei der Benutzer zwischen nicht konfiguriet und konfiguriert wählen kann.
+Es wird ein abgestuftes Angebot für alle Sway Interessenten erstellt, wobei der Benutzer zwischen nicht konfiguriet und konfiguriert wählen kann.
 Zusätzlich bieten vier Flavours ( s. unten ) eine gute Einstiegsmöglichkeit für alle, die sich in ihrer Wahl der bevorzugten Anwendungen bisher an das Angebot einer bestimmten Desktop Umgebungen orientiert haben.
 Interessant ist hierbei die Zuordnung von workspaces, Applikation und Tasten, die eine sehr schnelle Bedienung möglich macht ohne den Kompfort einer Desktopumgebung zu vermissen.
 ## 1. Sway-default
