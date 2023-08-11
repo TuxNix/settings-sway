@@ -1,7 +1,7 @@
 # Sway für Siduction
 Es wird ein abgestuftes Angebot für alle Sway Interessenten erstellt, wobei der Benutzer zwischen nicht konfiguriet und konfiguriert wählen kann.
 Zusätzlich bieten vier Flavours ( s. unten ) eine gute Einstiegsmöglichkeit für alle, die sich in ihrer Wahl der bevorzugten Anwendungen bisher an das Angebot einer bestimmten Desktop Umgebungen orientiert haben.
-Interessant ist hierbei die Zuordnung von workspaces, Applikation und Tasten, die eine sehr schnelle Bedienung möglich macht ohne den Kompfort einer Desktopumgebung zu vermissen.
+Interessant ist hierbei die Zuordnung von workspaces, Applikation und Tasten, die eine sehr schnelle Bedienung möglich macht ohne den Kompfort einer Desktopumgebung zu vermissen und dies ohne sich bei den gewohnten Anwendungen umstellen zu müssen. 
 ## 1. Sway-default
 Baut auf Siduction Nox auf und enthält lediglich die Sway Pakete. Alle configs verbleiben im Original. Ausgangangsbasis für alle, die komplett selbst konfigurieren wollen.
 ## 2. Siduction Sway
